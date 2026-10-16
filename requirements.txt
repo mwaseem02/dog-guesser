@@ -1,0 +1,5 @@
+requests
+streamlit
+fastapi
+uvicorn[standard]
+websockets
