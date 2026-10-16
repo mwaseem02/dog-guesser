@@ -14,7 +14,7 @@ Installation
 
 Python 3.10 ou supérieur est recommandé.
 
-git clone <URL_DU_DEPOT_GITHUB>
+git clone https://github.com/mwaseem02/dog-guesser.git
 cd dog-guesser
 
 python3 -m venv .venv
